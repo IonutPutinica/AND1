@@ -1,0 +1,1 @@
+The purpose of this exercise is basically to display something to Logcat, which acts like some kind of console.
