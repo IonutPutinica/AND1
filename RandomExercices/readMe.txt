@@ -1,0 +1,2 @@
+This app basically changes the text in a button when that certain button is clicked (one time only, it doesn't revert the action if it's clicked again)
+The code for the activity is written in the java folder, in the MainActivityClass
