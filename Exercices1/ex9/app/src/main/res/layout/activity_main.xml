@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4773FF"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="733dp"
+        android:background="#CA0000"
+        />
+
+    <ImageView
+        android:layout_width="450px"
+        android:layout_height="450px"
+        android:layout_alignParentLeft="true"
+        android:src="@drawable/profpic"
+        android:layout_marginLeft="50dp"
+         />
+
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="220dp"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:text="Ionel-Cristinel Putinica" />
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="250dp"
+        android:layout_marginTop="50dp"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:text="+45 81 90 07 95" />
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="230dp"
+        android:layout_marginTop="80dp"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:text="Kollegievænget 24" />
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="250dp"
+        android:layout_marginTop="110dp"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:text="Horsens 8700" />
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="230dp"
+        android:layout_marginTop="130dp"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:text="ionutputinicabz@gmail.com" />
+
+    <ImageView
+        android:layout_width="600px"
+        android:layout_height="600px"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="110dp"
+        android:src="@drawable/hieme"
+        android:layout_centerInParent="true"
+        />
+
+
+
+
+
+</RelativeLayout>
